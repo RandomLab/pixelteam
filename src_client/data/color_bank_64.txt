@@ -1,0 +1,68 @@
+Gris Clair,192,192,192
+Blanc,255,255,255
+Gris,128,128,128
+Gris Sombre,50,50,50
+Noir,0,0,0
+Ivoire,255,255,240
+Beige,245,245,220
+Blé,245,222,179
+Lin,250,240,230
+Crème,255,253,208
+Argent,192,192,192
+Gris Perle,200,200,200
+Gris Acier,176,176,176
+Gris Ardoise,119,136,153
+Gris Plomb,82,82,82
+Zinc,98,102,106
+Taupe,72,60,50
+Marron,165,42,42
+Brun Chocolat,123,63,0
+Brun Café,60,20,20
+Brun Cannelle,210,105,30
+Rouille,183,65,14
+Or,255,215,0
+Jaune Maïs,251,236,93
+Jaune Soufre,255,255,102
+Jaune Banane,255,225,53
+Abricot,255,165,79
+Pêche,255,218,185
+Orange Clair,255,200,128
+Orange Flamme,255,125,0
+Rouge Tomate,255,99,71
+Rouge Vermillon,227,66,52
+Rouge Cerise,222,49,99
+Rouge Fraise,252,90,141
+Rose Dragée,242,184,206
+Rose Bonbon,255,105,180
+Rose Foncé,231,84,128
+Rouge Grenat,185,30,30
+Rouge Sang,153,0,0
+Rouge Cardinale,196,30,58
+Rouge Bordeaux,128,0,0
+Fuchsia,255,119,255
+Magenta,255,0,255
+Rose Antique,250,215,230
+Lilas,200,162,200
+Lavande,230,230,250
+Bleu Bébé,137,207,240
+Bleu Clair,173,216,230
+Bleu Horizon,129,154,247
+Bleu Ardoise,70,130,180
+Bleu Roi,65,105,225
+Bleu Denim,21,96,189
+Bleu Marine,0,0,139
+Bleu Nuit,25,25,112
+Vert Pomme,141,182,0
+Vert Lime,50,205,50
+Vert Absinthe,127,221,76
+Vert Militaire,102,124,62
+Vert Forêt,34,139,34
+Vert Jungle,41,171,135
+Vert Menthe,189,252,201
+Émeraude,80,200,120
+Vert Prairie,124,252,0
+Turquoise,64,224,208
+Cyan,0,255,255
+Bleu Azur,0,127,255
+Bleu Saphir,15,82,186
+Indigo,75,0,130

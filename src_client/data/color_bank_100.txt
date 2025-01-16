@@ -1,0 +1,94 @@
+Noir,0,0,0
+Gris Sombre,50,50,50
+Gris,128,128,128
+Gris Acier,176,176,176
+Taupe,72,60,50
+Gris Plomb,82,82,82
+Charbon,54,69,79
+Zinc,98,102,106
+Brun Chocolat,123,63,0
+Brun Cannelle,210,105,30
+Rouille,183,65,14
+Brun Café,60,20,20
+Rouge Bordeaux,128,0,0
+Rouge Sang,153,0,0
+Rouge Vermillon,227,66,52
+Rouge Grenat,185,30,30
+Rouge Cerise,222,49,99
+Rouge Cardinale,196,30,58
+Rouge Fraise,252,90,141
+Rose Foncé,231,84,128
+Rose Bonbon,255,105,180
+Rose Dragée,242,184,206
+Abricot,255,165,79
+Orange Clair,255,200,128
+Orange Mandarine,255,153,51
+Orange Flamme,255,125,0
+Orangé Safran,244,196,48
+Jaune Soufre,255,255,102
+Jaune Banane,255,225,53
+Jaune Citrouille,255,117,24
+Jaune Moutarde,255,219,88
+Jaune Maïs,251,236,93
+Vert Olive,128,128,0
+Vert Forêt,34,139,34
+Vert Prairie,124,252,0
+Vert Lime,50,205,50
+Vert Absinthe,127,221,76
+Vert Militaire,102,124,62
+Vert Mousse,112,154,120
+Vert Pistache,190,245,116
+Menthe,189,252,201
+Turquoise,64,224,208
+Cyan,0,255,255
+Bleu Glacé,122,187,222
+Bleu Horizon,129,154,247
+Bleu Bébé,137,207,240
+Bleu Clair,173,216,230
+Bleu Azur,0,127,255
+Bleu Ardoise,70,130,180
+Bleu Nuit,25,25,112
+Bleu Marine,0,0,139
+Bleu Roi,65,105,225
+Bleu Denim,21,96,189
+Indigo,75,0,130
+Mauve,224,176,255
+Lavande,230,230,250
+Lilas,200,162,200
+Parme,205,160,222
+Magenta,255,0,255
+Fuchsia,255,119,255
+Rose Antique,250,215,230
+Grenat,153,17,17
+Rouge Tomate,255,99,71
+Rouge Vermillon,227,66,52
+Rouge Sang,153,0,0
+Brun Roux,143,89,34
+Sapin,0,128,0
+Émeraude,80,200,120
+Vert Jungle,41,171,135
+Bleu Cobalt,61,89,171
+Bleu Saphir,15,82,186
+Aqua,127,255,212
+Étain,72,78,81
+Rouge Carmin,150,0,24
+Jaune Pâle,240,230,140
+Or,255,215,0
+Vert Été,80,220,100
+Gris Nuage,170,170,170
+Brun Sépia,112,66,20
+Brun Moka,110,80,40
+Rouge Feu,255,60,0
+Argent,192,192,192
+Glacier,137,207,240
+Bleu Pétrole,10,84,130
+Bleu Électrique,44,117,255
+Or Foncé,185,151,91
+Vert Pastel,182,230,150
+Bleu Pastel,110,185,235
+Rose Vif,255,85,180
+Rouge Flamme,255,50,80
+Or Jaune,255,195,0
+Rouge Rubis,160,30,80
+Bleu Profond,30,60,180
+Bleu Mystère,25,30,60

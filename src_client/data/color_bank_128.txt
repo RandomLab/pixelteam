@@ -1,0 +1,115 @@
+Noir,0,0,0
+Gris Sombre,50,50,50
+Gris,128,128,128
+Gris Clair,192,192,192
+Blanc,255,255,255
+Rouge,255,0,0
+Rouge Foncé,139,0,0
+Orange,255,165,0
+Jaune,255,255,0
+Jaune Citron,173,255,47
+Vert,0,255,0
+Vert Forêt,34,139,34
+Vert Olive,128,128,0
+Vert Lime,50,205,50
+Bleu,0,0,255
+Bleu Marine,0,0,139
+Bleu Clair,173,216,230
+Bleu Ciel,135,206,250
+Cyan,0,255,255
+Turquoise,64,224,208
+Magenta,255,0,255
+Rose,255,20,147
+Violet,128,0,128
+Lavande,230,230,250
+Marron,165,42,42
+Beige,245,245,220
+Or,255,215,0
+Argent,192,192,192
+Bronze,205,127,50
+Bordeaux,128,0,0
+Fuchsia,255,119,255
+Abricot,255,165,79
+Moutarde,255,219,88
+Menthe,189,252,201
+Émeraude,80,200,120
+Sapin,0,128,0
+Indigo,75,0,130
+Cobalt,61,89,171
+Aqua,127,255,212
+Glacier,137,207,240
+Carmin,150,0,24
+Charbon,54,69,79
+Ivoire,255,255,240
+Lin,250,240,230
+Perle,252,244,255
+Rouge Tomate,255,99,71
+Rouge Cerise,222,49,99
+Rouille,183,65,14
+Pêche,255,218,185
+Blé,245,222,179
+Miel,240,199,111
+Citrouille,255,117,24
+Taupe,72,60,50
+Amande,239,222,205
+Bleuet,100,149,237
+Lilas,200,162,200
+Rose Thé,255,228,225
+Grenat,153,17,17
+Corail,255,127,80
+Pastèque,242,71,63
+Étain,72,78,81
+Zinc,98,102,106
+Verte Prairie,124,252,0
+Fougère,79,121,66
+Vert Jungle,41,171,135
+Vert Pomme,141,182,0
+Vert Absinthe,127,221,76
+Vert Militaire,102,124,62
+Vert Mousse,112,154,120
+Vert Pistache,190,245,116
+Bleu Roi,65,105,225
+Bleu Nuit,25,25,112
+Bleu Denim,21,96,189
+Bleu Saphir,15,82,186
+Bleu Pétrole,10,84,130
+Bleu Bébé,137,207,240
+Bleu Glacé,122,187,222
+Bleu Électrique,44,117,255
+Bleu Ardoise,70,130,180
+Bleu Horizon,129,154,247
+Bleu Azur,0,127,255
+Mauve,224,176,255
+Parme,205,160,222
+Rose Bonbon,255,105,180
+Rose Pâle,255,182,193
+Rose Dragée,242,184,206
+Rose Antique,250,215,230
+Rose Foncé,231,84,128
+Rouge Sang,153,0,0
+Rouge Vermillon,227,66,52
+Rouge Grenat,185,30,30
+Rouge Fraise,252,90,141
+Rouge Cardinale,196,30,58
+Orange Mandarine,255,153,51
+Orange Flamme,255,125,0
+Orange Clair,255,200,128
+Jaune Soufre,255,255,102
+Jaune Maïs,251,236,93
+Jaune Banane,255,225,53
+Orangé Safran,244,196,48
+Jaune Chamois,243,229,171
+Crème,255,253,208
+Brun Chocolat,123,63,0
+Brun Foncé,101,67,33
+Brun Cannelle,210,105,30
+Brun Café,60,20,20
+Brun Sépia,112,66,20
+Brun Noyer,150,75,0
+Noir Charbon,54,57,61
+Noir Jais,41,41,41
+Noir Nuit,25,25,25
+Gris Perle,200,200,200
+Gris Ardoise,119,136,153
+Gris Plomb,82,82,82
+Gris Acier,176,176,176
