@@ -4,7 +4,7 @@
 //list of received data
 OscP5 oscP5;
 String localIP = "";
-String distantIP = "";
+String distantIP = "172.18.3.107";
 
 //-------------------------------------------------------------
 //	SETUP OSC
@@ -63,6 +63,8 @@ void call_server() {
 	if (numberOfCalls > 0 && frameCount % 30 == 0) {
 		OscMessage m = new OscMessage("/call");
 		String ip_broadcast = localIP.substring(0, localIP.lastIndexOf(".")) + ".255";
+		//println("broadcast : " + ip_broadcast);
+		
 		NetAddress broadcast = new NetAddress(ip_broadcast, 12001);
 		oscP5.send(m, broadcast);
 		numberOfCalls--;
