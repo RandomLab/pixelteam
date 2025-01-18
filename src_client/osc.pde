@@ -4,7 +4,6 @@
 //list of received data
 OscP5 oscP5;
 String localIP = "";
-String distantIP = "172.18.3.107";
 
 //-------------------------------------------------------------
 //	SETUP OSC

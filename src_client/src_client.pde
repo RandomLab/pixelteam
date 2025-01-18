@@ -1,14 +1,21 @@
 import oscP5.*;
 import netP5.*;
 
-
+//-------------------------------------------------------------
+// CHANGE THIS !
+//-------------------------------------------------------------
+String player_name = "bob";
+String distantIP = "172.18.3.107";
+boolean fullScreen = true;
+//-------------------------------------------------------------
+// VARIABLES
+//-------------------------------------------------------------
 ButtonPanel button_panel_brush;
 ButtonPanel button_panel_color;
 
 Page page;
 int page_size_width;
 int page_size_height;
-
 PFont fira_12;
 
 int blocked = 0;
@@ -27,8 +34,11 @@ void settings() {
 	println("page size : " + page_size_width + " " + page_size_height);
 	println("--------------------------------------------------------------");
 	
-	//fullScreen(P2D);
-	size(1920, 1080,P2D);
+	if (fullScreen) {
+		fullScreen(P2D);
+	} else {
+		size(1920, 1080,P2D);
+	}
 }
 //-------------------------------------------------------------
 //	SETUP
@@ -120,7 +130,7 @@ void draw() {
 			int(red(c)),int(green(c)),int(blue(c)),
 			mousePressed,
 			button_panel_brush.getSelected().value,
-			"bob"
+			player_name
 			);
 	}
 	
