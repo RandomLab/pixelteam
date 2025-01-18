@@ -49,13 +49,13 @@ void init_interface() {
 	
 	// panel brush
 	button_panel_brush = new ButtonPanel();
-	int[] brushSize = {5, 10, 15, 20, 25};
+	int[] brushSize = {2,5, 10, 15, 20, 25};
 	int x = bound[0] + bound[2] + 5;
 	int y = bound[1];
 	int w = 30;
 	int h = 30;
-	for (int i = 0; i < 5; i++) {
-		Button b = new Button(x, y, w, h, color(255,0,0));
+	for (int i = 0; i < brushSize.length; i++) {
+		ButtonCircle b = new ButtonCircle(x, y, w, h, color(220));
 		b.value = brushSize[i];
 		button_panel_brush.addButton(b);
 		y += h + 2;

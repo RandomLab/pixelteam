@@ -23,7 +23,6 @@ class ButtonPanel{
 				received_callback(b);
 			}
 		});
-
 		selected_button = b;
 	}
 	//-------------------------------------------------------------
