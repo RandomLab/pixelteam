@@ -1,4 +1,4 @@
-# pixelteam
+# Pixelteam
 
 [ENG]  
 Pixelteam is a simple tool to draw a shared canvas with your friends. IT's a processing application that uses a server to share the canvas between multiple clients. Each client can draw on the canvas of the server.
@@ -21,3 +21,13 @@ To start the server, you need to run the folder "src_server".
 ### Client
 
 To start the client, you need to run the folder "src_client".
+
+
+### Client
+
+![image](doc/client.png)
+
+### Server
+
+![image](doc/server.png)
+

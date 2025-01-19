@@ -5,7 +5,8 @@ import netP5.*;
 // CHANGE THIS !
 //-------------------------------------------------------------
 String player_name = "bob";
-String distantIP = "172.18.3.107";
+//String distantIP = "172.18.3.107";
+String distantIP = "192.168.1.40";
 boolean fullScreen = true;
 //-------------------------------------------------------------
 // VARIABLES
